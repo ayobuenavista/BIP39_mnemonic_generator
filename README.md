@@ -6,4 +6,4 @@ Mnemonics are used to generate deterministic keys.
 BIP-0039
 https://github.com/bitcoin/bips/tree/master/bip-0039
 
-Usage: python generate_mnemonics.py "<mnemonic wordlist>"
+Usage: python generate_mnemonics.py "\<mnemonic_wordlist\>"
